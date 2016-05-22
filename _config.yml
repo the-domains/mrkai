@@ -1,14 +1,28 @@
+name: MrKai
+favicon: null
 layout_spectrum: 0.9336917
+typography_spectrum: 0.5806451
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.1630824
-  lightness: 0.4540256
-  brandStrength: 0.8512545
   brandColors:
     - '#0D0E12'
     - '#F1E5CD'
     - '#213D62'
     - '#CF4C52'
     - '#DC837A'
-  rhythmicContrast: 0.7017298
-typography_spectrum: 0.5806451
-name: MrKai
+  brandStrength: 0.8512545
+  lightness: 0.25
+  saturation: 0.375
+  rhythmicContrast: 1
+purpose: []
