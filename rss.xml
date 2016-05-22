@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Don't come 'round here no more...]]></title>
         <description><![CDATA[Don't come 'round here no more...]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mrkai/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 22 May 2016 20:19:12 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 22 May 2016 20:38:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mrkai/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Future™]]></title>
+            <description><![CDATA[<p>"Ah...the Jet Age...</p>]]></description>
+            <link>https://thegrid.ai/mrkai/the-futuretm/index.html</link>
+            <guid isPermaLink="false">46bcde6a-15e4-48a8-b8b4-a8e388866dc6</guid>
+            <pubDate>Sun, 22 May 2016 20:38:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Clinton Just Released An Anti-Trump Ad. It's Pretty Brutal.]]></title>
             <description><![CDATA[<article><h1>Clinton Just Released An Anti-Trump Ad. It's Pretty Brutal.</h1><p>Now that Donald Trump has got the Republican presidential nomination basically wrapped up, Hillary Clinton's campaign decided it wasn't too early to launch into attack mode and released a brutal web video slamming her probable general election opponent.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0fa584eaaff1da68d41ea77f91e8f0dd0777c22a.jpg"></article>]]></description>
