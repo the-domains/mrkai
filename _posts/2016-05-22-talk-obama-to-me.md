@@ -6,8 +6,8 @@ isBasedOnUrl: 'http://talkobamato.me/'
 inLanguage: null
 keywords: []
 description: 'Type whatever you want, and create a video of Barack Obama saying it.'
-datePublished: '2016-05-22T23:49:23.564Z'
-dateModified: '2016-05-22T23:49:17.525Z'
+datePublished: '2016-05-22T23:53:04.843Z'
+dateModified: '2016-05-22T23:49:31.450Z'
 author: []
 related: []
 app_links: []
